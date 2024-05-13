@@ -3,9 +3,6 @@ public class SmartTv {
     int canal = 1;
     int volume = 25;
 
-
-  
-
     public void ligar(){
         ligada = true;
     }
@@ -13,7 +10,6 @@ public class SmartTv {
         ligada = false;
     }
     
-
     public void aumentarVolume(){
         volume ++;
         System.out.println("Aumentando o volume para: " + volume);
