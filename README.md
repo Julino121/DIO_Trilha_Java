@@ -1,2 +1,2 @@
 # DIO_Trilha_Java
-Repositório para testes, exemplos e exercícios para o Bootcamp Santander 2024 - Backend com Java
+Repositório com os testes, exemplos e exercícios do Bootcamp Santander 2024 - Backend com Java
